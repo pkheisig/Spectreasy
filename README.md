@@ -1,6 +1,6 @@
 # Spectreasy
 
-Spectreasy (or OpenGate) is temporarily unavailable while development is paused for manuscript submission.
+Spectreasy is temporarily unavailable while development is paused for manuscript submission.
 
 ## Feature overview
 
